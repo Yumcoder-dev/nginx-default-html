@@ -22,3 +22,17 @@ Here's an example of how you can configure NGINX to hide the server version info
         # ...
  }
 ```
+
+## Pages
+
+### 40x.html
+
+![40x](./doc/40x.png)
+
+### 50x.html
+
+![50x](./doc/50x.png)
+
+### index.html
+
+![index](./doc/index.png)
